@@ -1,0 +1,20 @@
+[0m[0KMicrosoft Windows [Version 10.0.18362.476][0K[?25l
+(c) 2019 Microsoft Corporation. All rights reserved.[0K
+[0K
+C:\Rladies_SD\Git_2019.12.11\test2>[0K[?25hg[0Ki[0Kt[0K[40G[?25lC:\Rladies_SD\Git_2019.12.11\test2>git i[0K[?25hn[0Ki[0Kt[0K.[0K]0;  - git  init.[?25l
+[0K[?25h]0; git: 'init.' is not a git command. See 'git --help'.[0K[?25l
+[0K
+The most similar command is[0K
+        init[0K
+[0K
+C:\Rladies_SD\Git_2019.12.11\test2>[0K[?25hg[0Ki[0Kt[0K[40G[?25lC:\Rladies_SD\Git_2019.12.11\test2>git i[0K[?25hn[0Ki[0Kt[0K[45G[?25lC:\Rladies_SD\Git_2019.12.11\test2>git init .[0K[?25h]0;  - git  init .[?25l
+[0K[?25h]0; Initialized empty Git repository in C:/Rladies_SD/Git_2019.12.11/test2/.git/[0K[?25l
+[0K
+C:\Rladies_SD\Git_2019.12.11\test2>[0K[?25h]0;  - git  remote add origin https://github.com/anniezhang-github/test2.gitgit remote add origin https://github.com/anniezhang-github/test2.git[0K[?25l
+[0K[?25h]0; [?25l
+C:\Rladies_SD\Git_2019.12.11\test2>git push -u origin master[0K[?25h]0;  - git  push -u origin master[?25l
+[0K[?25h]0; error: src refspec master does not match any[0K[?25l
+[0;31merror: failed to push some refs to 'https://github.com/anniezhang-github/test2.git'[0m[0K
+[0K
+C:\Rladies_SD\Git_2019.12.11\test2>[0K[?25hg[0Ki[0Kt[0K[40G[?25lC:\Rladies_SD\Git_2019.12.11\test2>git a[0K[?25hd[0Kd[0K[44G[?25lC:\Rladies_SD\Git_2019.12.11\test2>git add .[0K[?25h]0;  - git  add .[?25l
+[0K[?25h
